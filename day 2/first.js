@@ -14,3 +14,8 @@ function showcase(){
     console.log("har bare gya 10 rupay la")
 }
 showcase();
+
+function showName(){
+    console.log("name:suraj pal");
+}
+showName();

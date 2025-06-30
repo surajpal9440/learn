@@ -4,6 +4,8 @@ let balance =40393; //first commit
 
 const account =4334443; //second commit
 
-function updatebalance(){
+function updatebalance(){  //third commit
     balance+=20;
 }
+
+console.log("hello coder army");

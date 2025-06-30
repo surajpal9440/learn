@@ -5,4 +5,10 @@ let balance =40393;
 const account =4334443;
 
 console.log("hello bhaiya");
+<<<<<<< HEAD
 console.log("main hu hero tera...!");
+=======
+
+console.log("honey money");
+console.log("mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm");
+>>>>>>> bug

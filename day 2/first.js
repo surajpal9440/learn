@@ -7,7 +7,22 @@ const account =4334443;
 console.log("hello bhaiya");
 console.log("main hu hero tera...!");
 
+<<<<<<< HEAD
 function showcase(){
     console.log("har bare wale....!")
 }
 showcase();
+=======
+console.log("honey money");
+console.log("mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm");
+
+function showcase(){
+    console.log("har bare gya 10 rupay la")
+}
+showcase();
+
+function showName(){
+    console.log("name:suraj pal");
+}
+showName();
+>>>>>>> pay
